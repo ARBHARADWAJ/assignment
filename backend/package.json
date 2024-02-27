@@ -1,0 +1,28 @@
+{
+  "name": "e-commers",
+  "version": "1.0.0",
+  "description": "this is for the assignment and later used forresume and career",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ARBHARADWAJ/Ecm_DB_Node_express.git"
+  },
+  "author": "ar.bharadwaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ARBHARADWAJ/Ecm_DB_Node_express/issues"
+  },
+  "homepage": "https://github.com/ARBHARADWAJ/Ecm_DB_Node_express#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "mongoose": "^8.2.0"
+  }
+}
